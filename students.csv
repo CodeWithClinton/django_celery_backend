@@ -1,0 +1,11 @@
+reg_no,first_name,last_name,email,department,level
+2024001,John,Doe,john.doe@example.com,Computer Science,100
+2024002,Mary,Okafor,mary.okafor@example.com,Computer Science,200
+2024003,David,Adebayo,david.adebayo@example.com,Mathematics,100
+2024004,Sarah,Johnson,sarah.johnson@example.com,Physics,300
+2024005,Chinedu,Nwachukwu,chinedu.nwachukwu@example.com,Chemistry,200
+2024006,Fatima,Bello,fatima.bello@example.com,Biology,100
+2024007,Emeka,Okoye,emeka.okoye@example.com,Computer Science,400
+2024008,Aisha,Musa,aisha.musa@example.com,Statistics,200
+2024009,Blessing,Eze,blessing.eze@example.com,Economics,100
+2024010,Samuel,Akin,samuel.akin@example.com,Engineering,300
