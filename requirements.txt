@@ -10,6 +10,7 @@ click-plugins==1.1.1.2
 click-repl==0.3.0
 colorama==0.4.6
 Django==5.2.11
+django-cors-headers==4.9.0
 djangorestframework==3.16.1
 gevent==25.9.1
 greenlet==3.3.1
